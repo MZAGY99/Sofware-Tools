@@ -1,6 +1,6 @@
 ## Sofware-Tools
 
-> Update 6 January 2022
+> Update 7 January 2022
 
 | Nama Sofware   | URL | Status |  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
