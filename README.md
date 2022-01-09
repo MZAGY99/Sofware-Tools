@@ -1,15 +1,18 @@
 ## Sofware-Tools
 
-> Update 7 January 2022
+> Update 10 January 2022
 
+>
 | Nama Sofware   | URL | Status |  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Sofware | Bypass Tools | [Link](https://www.github.com/koleksibot/) | `Aktif` | Sofware Tools Bypass 'id' `#` | `Aktif` |
 | Bypass Tools | Toolskit | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Bypass%20Tools/) | `Aktif` | Tools Bypass 'id' `#` | `Aktif` |
 | Daftar Api Lokal | Api Lokal | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Daftar%20Api%20Lokal) | `Aktif` | Sofware Tools Bypass 'id' `#` | `Aktif` |
 | Google Dork | Hacking | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Google%20Dork) | `Aktif` | Sofware Tools Bypass 'id' `#` | `Aktif` |
-| Host Domain | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Host%20Domain) | `Aktif` | Sofware Tools Bypass 'id' `#` | `Aktif` |
-| Template Premium | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Template%20Premium/BLOGGER) | `Aktif` | Sofware Tools Bypass 'id' `#` | `Aktif` |
+| Host Domain | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Host%20Domain) | `Aktif` | Tools Bypass 'id' `#` | `Aktif` |
+| Template Premium | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Template%20Premium/BLOGGER) | `Aktif` | Template Blogger 'id' `#` | `Aktif` |
+| Termux Hacking | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Termux%20Hacking) | `Aktif` | Tools Termux 'id' `#` | `Aktif` |
+
 
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status"></a>
