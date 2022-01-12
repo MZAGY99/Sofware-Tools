@@ -1,6 +1,7 @@
-## Sofware-Tools
+## Sofware-Tools 👻
+<img width="450px" src="https://i.pinimg.com/736x/41/7a/c1/417ac1ff076dc03cc9e59cfc8dbc66da.jpg">
 
-> Update 11 January 2022
+> Update 12 January 2022
 
 >
 | Nama Sofware   | URL | Status |  | Deskripsi | `Auth` |
@@ -378,7 +379,7 @@ Please make sure to read the [Contributing Guide](https://github.com/vuejs/vue/b
 
 Thank you to all the people who already contributed!
 
-<a href="https://github.com/vuejs/vue/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
+<a href="https://github.com/koleksibot/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
 
 ## License
 
