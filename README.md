@@ -1,7 +1,7 @@
 ## Sofware-Tools 👻
 <img width="450px" src="https://i.pinimg.com/736x/41/7a/c1/417ac1ff076dc03cc9e59cfc8dbc66da.jpg">
 
-> Update 12 January 2022
+> Update 19 January 2022
 
 >
 | Nama Sofware   | URL | Status |  | Deskripsi | `Auth` |
