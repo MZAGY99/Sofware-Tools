@@ -1,7 +1,52 @@
 ## Sofware-Tools 👻
+<!--platinum start-->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://vueschool.io/?utm_source=Vuejs.org&utm_medium=Banner&utm_campaign=Sponsored%20Banner&utm_content=V1" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vueschool.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://vehikl.com/" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vehikl.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://passionatepeople.io/" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/passionate_people.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.storyblok.com" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/storyblok.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://ionicframework.com/vue?utm_source=partner&utm_medium=referral&utm_campaign=vuesponsorship&utm_content=vuedocs" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/ionic.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://nuxtjs.org/" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/nuxt.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.refurbed.org/?utm_source=vuejs" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/refurbed.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+  </tbody>
+</table>
+<!--platinum end-->
 <img width="450px" src="https://i.pinimg.com/736x/41/7a/c1/417ac1ff076dc03cc9e59cfc8dbc66da.jpg">
 
-> Update 13 Febuary 2022
+> Update 14 Febuary 2022
 
 >
 | Nama Sofware   | URL | Status |  | Deskripsi | `Auth` |
@@ -14,10 +59,124 @@
 | Template Premium | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Template%20Premium/BLOGGER) | `Aktif` | Template Blogger 'id' `#` | `Aktif` |
 | Termux Hacking | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Termux%20Hacking) | `Aktif` | Tools Termux 'id' `#` | `Aktif` |
 
+
+## Desain
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Dribble | https://dribbble.com/ | `Sukses` | Desain |
+| Behance | https://www.behance.net/ | `Sukses` | Desain |
+| Awwards | https://www.awwards.com/websites/ | `Sukses` | Desain |
+| TriangLify | https://trianglify.io/ | `Sukses` | Desain |
+| Wicked | https://wickedbackgrounds.com/ | `Sukses` | Desain |
+| Felixg | https://felixg.io/products/inline | `Sukses` | Desain |
+| DesignVault | https://designvault.io/ | `Sukses` | Desain |
+| Boxicons | https://boxicons.com/ | `Sukses` | Desain |
+| Graphics | https://tool.graphics/mondrian | `Sukses` | Desain |
+| PixelTrue | https://www.pixeltrue.com/scenic-illustrations | `Sukses` | Desain |
+| Daily UI | https://www.dailyui.co/ | `Sukses` | Desain |
+| Typewolf | https://www.typewolf.com/ | `Sukses` | Desain |
+
+## Gambar menarik gratis
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+- https://themeisle.com/blog/free-illustrations/#IRA
+- https://designstripe.com/
+- https://www.pixeltrue.com/free-packs/adventure-illustrations
+
+## Korektor Bahasa
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://languagetool.org/pt-BR
+
+## Ferramentas untuk UX/UI
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://miro.com/
+| https://www.notion.so/
+| https://www.figma.com/
+| https://evernote.com/
+
+## Situs Melhores
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://www.csswinner.com/
+| https://www.cssdesignawards.com/
+| https://www.awwards.com/
+| http://cssreel.com/
+
+## Aksesibilidade para situs
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| http://acessibilida.de/
+| http://mwpt.com.br/transformacao/teste-acessibilidade/
+| autisme
+| http://talitapagani.com/gaia/  
+| Baixa Visão
+| https://contrastchecker.com/
+| https://webaim.org/
+
+## Seo
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://sitechecker.pro/pt/
+| https://sitechecker.pro/pt/open-graph/
+| https://jamseotools.com/
+| https://validator.w3.org/
+
+## Desain Dan Programming
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://coderbyte.com/
+| https://www.hackerrank.com/
+| https://www.jschallenger.com/
+| https://www.devchallenge.com.br/challenges
+| https://www.urionlinejudge.com.br/judge/en/login
+| https://www.spoj.com/
+| https://www.codewars.com/
+| https://leetcode.com/
+
+## Desain Icons Pack
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://heroicons.com/
+| https://icons8.com/
+| https://thenounproject.com/
+| https://app.streamlinehq.com/icons/material-line
+
+## Editor Video online
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://app.clipchamp.com/
+
+## Kode status HTTP
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://httpsstatusdogs.com/
+
+## Cursos gratuitos Dan Programmer
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://digitalinnovation.one/
+| https://www.freecodecamp.org/
+| https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado
+
+## APIS
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://hgbrasil.com/
+| https://www.themoviedb.org/documentation/api
+
+## Vagas
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| https://seujob.tech/
+
 # Peralatan
 Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembangan web dan keingintahuan sehari-hari.
 
 ## Bermacam-macam
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Versi alat https://verstory.com/
  * Teknologi di mana sebuah situs dikembangkan https://builtwith.com
  * Shell: Lihat perintah Shell yang dijelaskan https://explainshell.com/
