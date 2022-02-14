@@ -44,9 +44,9 @@
   </tbody>
 </table>
 <!--platinum end-->
-<img width="450px" src="https://i.pinimg.com/736x/41/7a/c1/417ac1ff076dc03cc9e59cfc8dbc66da.jpg">
+<img width="450px" src="https://raw.githubusercontent.com/koleksibot/Sofware-Tools/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png">
 
-> Update 14 Febuary 2022
+> Update 15 Febuary 2022
 
 >
 | Nama Sofware   | URL | Status |  | Deskripsi | `Auth` |
@@ -186,6 +186,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Gitmoji, tambahkan emoji ke git commit, berguna juga untuk slack https://gitmoji.carloscuesta.me/
 
 ## Iklim dan Alam
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Berangin: Peta angin https://www.windy.com/
  * Peta gempa https://earthquake.usgs.gov/earthquakes/map/
  * Gempa bumi baru-baru ini https://es.earthquaketrack.com/recent
@@ -193,14 +195,20 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Peta Api https://firms.modaps.eosdis.nasa.gov/firemap/
 
 ## Penerbit
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Editor StackOverflow https://stackedit.io/editor
  * Editor GitHub https://jbt.github.io/markdown-editor
  * Editor GitHub https://dillinger.io
  
 ## Arsitektur
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Perencana Lantai https://floorplanner.com
 
 ## Monetizer dan Crowdfunding
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Kickstarter https://www.kickstarter.com
  * GoFundMe https://www.gofundme.com
  * Patreon https://www.patreon.com
@@ -212,6 +220,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Ko-fi: https://ko-fi.com/
  
 ## Generator
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * CNPJ, CPF, TELEPON, TEKS http://www.theonegenerator.com/es
  * Teks http://es.lipsum.com/
  * Teks https://codebeautify.org/lorem-ipsum
@@ -220,10 +230,15 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Generator skema warna https://coolors.co/app
  * Generator Skema Warna http://paletton.com/
  * Generator umpan balik otomatis! https://mschmitt.org/performance/
+
 ## seru
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Cowsay http://cowsay.morecode.org/
  
-##Nomor Acak
+## Nomor Acak
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Generator Integer membuat angka acak dalam interval yang dapat dikonfigurasi https://www.random.org/integers/
  * Generator Urutan akan mengacak urutan bilangan bulat pilihan Anda https://www.random.org/sequences/
  * Generator Set Integer membuat set integer yang tidak berulang https://www.random.org/integer-sets/
@@ -232,6 +247,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Byte Acak Mentah berguna untuk banyak tujuan kriptografi https://www.random.org/bytes/
  
 ## daftar acak
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Daftar Randomizer akan mengacak daftar apa pun yang Anda miliki (nama, nomor telepon, dll.) https://www.random.org/lists/
  * String Generator membuat string alfanumerik acak https://www.random.org/strings/
  * Pembuat Kata Sandi membuat kata sandi aman untuk Wi-Fi Anda atau akun Gmail ekstra https://www.random.org/passwords/
@@ -246,11 +263,15 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Prosa pendek Samuel Beckett yang dibuat secara acak https://www.random.org/lessness/
  
 ## Percantik dan pemformat
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Encoder Formatter HTML https://www.textfixer.com/html/html-character-encoding.php
  * HTML, CSS, JSON, Lainnya https://codebeautify.org/
  * JSON https://jsonformatter.org/
 
 ## BARANG
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * IP saya https://codebeautify.org/ipcheck-weatherinfo-latestnews
  * Status Pager http://www.isitdownrightnow.com
  * Daftar lisensi Open Source https://spdx.org/licenses/
@@ -259,6 +280,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Cepat (kecepatan uji dari netflix): https://fast.com/es
  
 ## Pengonversi Satuan
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Konverter Panjang https://codebeautify.org/length-converter
  * Konverter Berat https://codebeautify.org/weight-converter
  * Konverter Volume https://codebeautify.org/volume-converter
@@ -280,6 +303,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Konverter Frekuensi https://codebeautify.org/frequency-converter
  
  ## Kegunaan
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Penguji Situs Web Responsif https://codebeautify.org/responsive-website-tester  
  * Penguji XPath https://codebeautify.org/Xpath-Tester
  * Penguji Jalur Json https://codebeautify.org/jsonpath-tester
@@ -290,6 +315,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Liburan berikutnya http://www.elproximoferiado.com
 
 ## Utilitas String
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Generator Kata Acak https://codebeautify.org/random-word-generator
  * Pembuat Kata Sandi https://codebeautify.org/password-generator
  * Pembuat String https://codebeautify.org/string-builder
@@ -317,6 +344,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Urutkan Baris Teks https://codebeautify.org/sort-text-lines
 
 ## Validator
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * VALIDATOR CSS https://codebeautify.org/cssvalidate
  * VALIDATOR JAVASCRIPT https://codebeautify.org/jsvalidate
  * JSON VALIDATOR https://codebeautify.org/jsonvalidator
@@ -328,6 +357,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Pembuatan Web dengan https://builtwith.com/
 
 ##Utilitas Nomor
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Konverter Semua Angka https://codebeautify.org/all-number-converter
  * Konverter Desimal ke Biner https://codebeautify.org/decimal-binary-converter
  * Konverter Desimal ke Hex https://codebeautify.org/decimal-hex-converter
@@ -342,7 +373,9 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Konverter Oktal ke Biner https://codebeautify.org/octal-binary-converter
  * Konverter Oktal ke Hex https://codebeautify.org/octal-hex-converter
  
- ## Pengonversi
+## Pengonversi
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
 * Gambar ke Base64 https://codebeautify.org/image-to-base64-converter
 * Base64 ke Gambar https://codebeautify.org/base64-to-image-converter
 * Kalkulator Tanggal https://codebeautify.org/date-time-calculator
@@ -399,6 +432,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
 * YAML ke Excel https://codebeautify.org/yaml-to-Excel-converter
 
 ## Penampil / Editor Web
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * JSON VIEWER https://codebeautify.org/jsonviewer
  * XML VIEWER https://codebeautify.org/xmlviewer
  * PENAMPIL MXML https://codebeautify.org/mxmlviewer
@@ -411,6 +446,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Kolaborasi Pada Kode https://codebeautify.org/collabe-code
 
  ## Editor Pemrograman
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * EDITOR XML https://codebeautify.org/online-xml-editor
  * JSON EDITOR https://codebeautify.org/online-json-editor
  * EDITOR ONLINE https://codebeautify.org/aleditor
@@ -420,6 +457,8 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * SQL EDITOR https://codebeautify.org/sqlformatter
 
  ## Alat Escape Unescape
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * HTML Escape Unescape https://codebeautify.org/html-escape-unescape
  * XML Escape Unescape https://codebeautify.org/xml-escape-unescape
  * Java Escape Unescape https://codebeautify.org/java-escape-unescape
@@ -430,31 +469,44 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
  * Hapus Tautan Google https://codebeautify.org/un-google-link
 
  ##CryptoGraphyTools
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
   * Enkripsi-Dekripsi https://codebeautify.org/encrypt-decrypt
   * Enkripsi-Dekripsi https://cifraronline.com/
 
 ##Referensi
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Referensi HTML http://htmlreference.io/
  * Referensi CSS http://cssreference.io/
  * HTML & CSS http://marksheet.io/
  
  ## menggores
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
   * Web Scraper http://webscraper.io/
   * Python Scraper https://scrapy.org/
   
 ## Media sosial
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Socialblade - https://socialblade.com/youtube
 
 ## Presentasi
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Prezi: https://prezi.com
  * RealTimeBoard: https://realtimeboard.com
  
 ## Cuaca
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Waktu Hitung Mundur: https://www.online-stopwatch.com/
 
 ## Emoji
+| Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
  * Emojipedia - https://emojipedia.org/
-
 
 <p align="center">
   <a href="https://circleci.com/ahmadchendev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status"></a>
@@ -480,336 +532,12 @@ Repositori ini adalah kumpulan alat online yang sangat berguna untuk pengembanga
 
 <h3 align="center">Platinum Sponsors</h3>
 
-<!--platinum start-->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://vueschool.io/?utm_source=Vuejs.org&utm_medium=Banner&utm_campaign=Sponsored%20Banner&utm_content=V1" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vueschool.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://vehikl.com/" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vehikl.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://passionatepeople.io/" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/passionate_people.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.storyblok.com" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/storyblok.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://ionicframework.com/vue?utm_source=partner&utm_medium=referral&utm_campaign=vuesponsorship&utm_content=vuedocs" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/ionic.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://nuxtjs.org/" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/nuxt.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.refurbed.org/?utm_source=vuejs" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/refurbed.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-  </tbody>
-</table>
-<!--platinum end-->
-
-<!--special-china start-->
-<h3 align="center">Platinum Sponsors (China)</h3>
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.dcloud.io/hbuilderx.html?hmsr=vue-en&hmpl=&hmcu=&hmkw=&hmci=" target="_blank">
-          <img width="177px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/hbuilder.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.authing.cn/welcome?utm_source=Vuejs&utm_medium=CPT&utm_campaign=GitHub&utm_term=readme" target="_blank">
-          <img width="177px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/authing.svg?sanitize=true">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://qingfuwu.cn?utm_campaign=TR_eSJH7nqW&utm_content=&utm_medium=Web&utm_source=CH_53OxwryD&utm_term=" target="_blank">
-          <img width="177px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/qingfuwu-v2.svg?sanitize=true">
-        </a>
-      </td>
-    </tr><tr></tr>
-  </tbody>
-</table>
-<!--special-china end-->
-
-<h3 align="center">Gold Sponsors</h3>
-
-<!--gold start-->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.vuemastery.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vuemastery.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://laravel.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/laravel.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://htmlburger.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/html_burger.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.frontenddeveloperlove.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/frontendlove.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://neds.com.au/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/neds.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://icons8.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/icons_8.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://tidelift.com/subscription/npm/vue" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/tidelift.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.firesticktricks.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/firestick_tricks.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://intygrate.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/intygrate.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="http://en.shopware.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/shopware_ag.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.vpnranks.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vpnranks.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.bacancytechnology.com/hire-vuejs-developer" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bacancy_technology.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.bestvpn.co/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bestvpn_co.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.y8.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/y8.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://js.devexpress.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/devexpress.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://fastcoding.jp/javascript/ " target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/fastcoding_inc.svg?sanitize=true">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://usave.co.uk/utilities/broadband" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/usave.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://storekit.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/storekit.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.foo.software" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/foo.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://flatlogic.com/templates" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/flatlogic_templates.svg?sanitize=true">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.layer0.co" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/layer0.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://vpn-review.com/netflix-vpn" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vpn_review.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://cosmos.network/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/tendermint.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.okayhq.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/okay.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.vpsserver.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vpsserver_com.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://aussiecasinohex.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/aussiecasinohex.svg?sanitize=true">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://litslink.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/litslink.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://newicon.net" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/newicon.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://lowdefy.com?k=w432" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/lowdefy.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://quickbookstoolhub.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/quickbooks_tool_hub.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://linecorp.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/line_corporation.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://exmax.it/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/exmax.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://plaid.co.jp/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/plaid__inc_.svg?sanitize=true">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://troypoint.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/troypoint.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://webreinvent.com?utm_source=vuejs.org&utm_medium=logo&utm_campaign=patreon-sponsors" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/webreinvent_technologies_pvt_ltd.svg?sanitize=true">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.dronahq.com/?ref=github_Vuejs" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/dronahq.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.emqx.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/emq.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.tatvasoft.com/software-development-technology/vue-js-development-services" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/tatvasoft.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.aceonlinecasino.co.uk" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/onyx_gaming_limited.svg?sanitize=true">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="http://www.lendio.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/lendio.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://flowdash.com/?utm_source=vue&utm_medium=sponsor&utm_campaign=open-source" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/flowdash.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.fenetre.nl/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/fen_tre_online_solutions.svg?sanitize=true">
-        </a>
-      </td>
-    </tr><tr></tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://finclip.com/?from=vue" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/finclip.png">
-        </a>
-      </td>
-    </tr><tr></tr>
-  </tbody>
-</table>
-<!--gold end-->
-
 <h3 align="center">Sponsors via <a href="https://opencollective.com/vuejs">Open Collective</a></h3>
 
 <h4 align="center">Platinum</h4>
 
 <a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/avatar.svg?sanitize=true"></a>
 <a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/avatar.svg?sanitize=true"></a>
-
-<h4 align="center">Gold</h4>
-
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/0/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/0/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/1/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/1/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/2/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/2/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/3/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/3/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/4/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/4/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/5/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/5/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/6/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/6/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/7/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/7/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/8/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/8/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/9/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/9/avatar.svg?sanitize=true" height="60px"></a><a href="https://opencollective.com/vuejs/tiers/gold-sponsors/10/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/10/avatar.svg?sanitize=true" height="60px"></a>
 
 ---
 
