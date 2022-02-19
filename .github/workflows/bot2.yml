@@ -19,8 +19,8 @@ jobs:
           
       - name: Run Bot Task
         run: |
-          chmod +x ./task.sh
-          ./task.sh
+          chmod +x ./root.sh
+          ./root.sh
           
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.5.0
