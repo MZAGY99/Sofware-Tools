@@ -62,8 +62,6 @@ Tempat Sofware Tools Dan Tutorial Lainnya Gaes Fork Give Me Star 🎊🎊🎊
 | Template Premium | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Template%20Premium/BLOGGER) | `Aktif` | Template Blogger 'id' `#` | `Aktif` |
 | Termux Hacking | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Termux%20Hacking) | `Aktif` | Tools Termux 'id' `#` | `Aktif` |
 
-Project | Short description
------------- | -------------
 
 ## Desain
 | Nama Sofware   | URL | Status | Deskripsi | | `Koleksibot` |
