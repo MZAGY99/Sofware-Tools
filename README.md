@@ -49,7 +49,7 @@ Tempat Sofware Tools Dan Tutorial Lainnya Gaes Fork Give Me Star 🎊🎊🎊
 <!--platinum end-->
 <img width="500px" src="https://raw.githubusercontent.com/koleksibot/Sofware-Tools/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png">
 
-> Update 22 Febuary 2022
+> Update 24 Febuary 2022
 
 >
 | Nama Sofware   | URL | Status |  | Deskripsi | `Auth` |
