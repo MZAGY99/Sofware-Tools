@@ -49,7 +49,7 @@ Tempat Sofware Tools Dan Tutorial Lainnya Gaes Fork Give Me Star 🎊🎊🎊
 <!--platinum end-->
 <img width="500px" src="https://raw.githubusercontent.com/koleksibot/Sofware-Tools/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png">
 
-> Update 24 Febuary 2022
+> Update 2 Maret 2022
 
 >
 | Nama Sofware   | URL | Status |  | Deskripsi | `Auth` |
@@ -59,8 +59,8 @@ Tempat Sofware Tools Dan Tutorial Lainnya Gaes Fork Give Me Star 🎊🎊🎊
 | Daftar Api Lokal | Api Lokal | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Daftar%20Api%20Lokal) | `Aktif` | Sofware Tools Bypass 'id' `#` | `Aktif` |
 | Google Dork | Hacking | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Google%20Dork) | `Aktif` | Sofware Tools Bypass 'id' `#` | `Aktif` |
 | Host Domain | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Host%20Domain) | `Aktif` | Tools Bypass 'id' `#` | `Aktif` |
-| Template Premium | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Template%20Premium/BLOGGER) | `Aktif` | Template Blogger 'id' `#` | `Aktif` |
-| Termux Hacking | Bypass Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Termux%20Hacking) | `Aktif` | Tools Termux 'id' `#` | `Aktif` |
+| Template Premium | Blogger | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Template%20Premium/BLOGGER) | `Aktif` | Template Blogger 'id' `#` | `Aktif` |
+| Termux Hacking | Tools | [Link](https://github.com/koleksibot/Sofware-Tools/tree/main/Termux%20Hacking) | `Aktif` | Tools Termux 'id' `#` | `Aktif` |
 
 
 ## Desain
