@@ -23,7 +23,7 @@ jobs:
           ./task.sh
           
       - name: GitHub Push
-        uses: ad-m/github-push-action@v0.5.0
+        uses: actions/checkout@v2
         with:
           force: true
           directory: "."
