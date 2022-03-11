@@ -3,7 +3,7 @@ name: Sofware-Tools Commit
 on:
   push:
     branches:
-      - master
+      - main
       
   schedule:
     - cron: "3 * * * *"
