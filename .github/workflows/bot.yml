@@ -1,4 +1,4 @@
-name: Sofware-Tools
+name: Sofware-Tools Commit
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
     - cron: "3 * * * *"
 
 jobs:
-  auto-commit:
+  AhmadChenDev-commit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2      
@@ -23,7 +23,7 @@ jobs:
           ./task.sh
           
       - name: GitHub Push
-        uses: ad-m/github-push-action@v0.5.0
+        uses: actions/checkout@v2
         with:
           force: true
           directory: "."
